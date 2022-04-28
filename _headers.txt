@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Viewport = "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
